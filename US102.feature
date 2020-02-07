@@ -1,4 +1,4 @@
-Feature: OneWeb_AH_SP3_US102
+Feature: AH_SP3_US102
  This feature file holds Sprint3 USs for Account Hub
 
 @sp3
@@ -10,10 +10,4 @@ Scenario Outline: AH_CLM_ActivateSignedAgreement
 Examples:
 	|TestData   |
 	|TestData_01|
-
-@sp3
-Scenario: AH_CLM_ValidateAgreementStatus
-	Given Navigate to Salesforce SIT Loginpage
-	When Login to Salesforce SIT Loginpage
-	Then Create New Agreement and Validate Agreement Statuses
 
