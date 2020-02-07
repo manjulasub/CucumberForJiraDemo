@@ -1,4 +1,4 @@
-Feature: OneWeb
+Feature: US100
  This feature file holds Sprint3 USs for Account Hub
  
 @all @sp3
