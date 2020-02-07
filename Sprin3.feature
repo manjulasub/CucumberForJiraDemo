@@ -12,7 +12,7 @@ Examples:
 	|TestData_01|
 
 	
-@all @sp3 @274
+@all @sp3
 Scenario Outline: AH_CPQ_GeneratingBudgetaryDocumentWithAvailableTemplate_US274
 	Given Navigate to Salesforce SIT Loginpage
 	When Login to Salesforce SIT Loginpage
