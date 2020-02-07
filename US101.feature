@@ -1,4 +1,4 @@
-Feature: AH_SP3_US101
+Feature: Regression
  This feature file holds Sprint3 USs for Account Hub
 
 @sp3
