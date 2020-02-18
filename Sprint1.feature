@@ -1,5 +1,6 @@
 Feature: Sprint1
 
+@sp1 @all
 Scenario: AH_User should be able to create leads
 	
 			Given Navigate to Salesforce SIT Loginpage
