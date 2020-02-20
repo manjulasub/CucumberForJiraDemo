@@ -7,3 +7,4 @@ Scenario: CLM_SendAgreementForReview
 	When Login to Salesforce SIT Loginpage
 	Then User generates agreement documents in selected formats
 	Then User Sends an Agreement For Review
+	And Logout
