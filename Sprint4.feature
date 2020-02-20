@@ -1,4 +1,4 @@
-Feature: C4JZ-35
+Feature: Sprint4
  This feature file holds Sprint1 US
 
 @sp4
