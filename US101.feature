@@ -1,8 +1,8 @@
 Feature: Regression
- This feature file holds Sprint3 USs for Account Hub
+ This feature file holds Sprint3 US
 
 @sp3
-Scenario: AH_CLM_SendAgreementForReview
+Scenario: CLM_SendAgreementForReview
 	Given Navigate to Salesforce SIT Loginpage
 	When Login to Salesforce SIT Loginpage
 	Then User generates agreement documents in selected formats
