@@ -1,4 +1,4 @@
-Feature: US102
+Feature: Sprint2
  This feature file holds Sprint2 US
  
 @all @sp2
