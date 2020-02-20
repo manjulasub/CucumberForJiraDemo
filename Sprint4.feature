@@ -1,5 +1,5 @@
 Feature: Sprint4
- This feature file holds Sprint1 US
+ This feature file holds Sprint4 US
 
 @sp4
 Scenario:CLM_CreationOfAgreementFromOpportunity_US232
